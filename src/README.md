@@ -1,7 +1,7 @@
 # 💻 Data Science Studies
 
 <div align="center">
-  <img src='./assets/data-science.svg' alt='Data Science' />
+  <img src='../assets/data-science.svg' alt='Data Science' />
 </div>
 
 ---

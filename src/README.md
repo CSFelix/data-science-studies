@@ -13,3 +13,5 @@
 [02 - Data Visualizations](https://github.com/CSFelix/data-science-studies/tree/main/src/02%20-%20Data%20Visualizations)
 
 [03 - Statistic, Probability and Hypothesis Testing](https://github.com/CSFelix/data-science-studies/tree/main/src/03%20-%20Statistic%2C%20Probability%20and%20Hypothesis%20Testing)
+
+[04 - Special Data Types](https://github.com/CSFelix/data-science-studies/tree/main/src/04%20-%20Special%20Data%20Types)

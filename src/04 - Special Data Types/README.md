@@ -9,3 +9,9 @@
 [0.3 - Geospatial Data IV - Manipulating Geospatial Data](https://github.com/CSFelix/data-science-studies/blob/main/src/04%20-%20Special%20Data%20Types/0.3%20-%20Geospatial%20Data%20IV%20-%20Manipulating%20Geospatial%20Data.ipynb)
 
 [0.4 - Geospatial Data V - Proximity Analysis](https://github.com/CSFelix/data-science-studies/blob/main/src/04%20-%20Special%20Data%20Types/0.4%20-%20Geospatial%20Data%20V%20-%20Proximity%20Analysis.ipynb)
+
+---
+
+# 🕰️ Time Series
+
+[1.0 - Time Series I - Linear Regression](https://github.com/CSFelix/data-science-studies/blob/main/src/04%20-%20Special%20Data%20Types/1.0%20-%20Time%20Series%20I%20-%20Linear%20Regression.ipynb)

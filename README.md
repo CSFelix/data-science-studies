@@ -17,3 +17,5 @@
 [04 - Special Data Types](https://github.com/CSFelix/data-science-studies/tree/main/src/04%20-%20Special%20Data%20Types)
 
 [05 - Data Wrangling and Data Cleaning](https://github.com/CSFelix/data-science-studies/tree/main/src/05%20-%20Data%20Wrangling%20and%20Data%20Cleaning)
+
+[06 - Feature Engineering](https://github.com/CSFelix/data-science-studies/tree/main/src/06%20-%20Feature%20Engineering)

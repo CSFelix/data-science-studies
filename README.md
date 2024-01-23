@@ -21,3 +21,5 @@
 [06 - Feature Engineering](https://github.com/CSFelix/data-science-studies/tree/main/src/06%20-%20Feature%20Engineering)
 
 [07 - Machine Learning](https://github.com/CSFelix/data-science-studies/tree/main/src/07%20-%20Machine%20Learning)
+
+[08 - Machine Learning Explainability](https://github.com/CSFelix/data-science-studies/tree/main/src/08%20-%20Machine%20Learning%20Explainability)

@@ -25,3 +25,5 @@
 [08 - Machine Learning Explainability](https://github.com/CSFelix/data-science-studies/tree/main/src/08%20-%20Machine%20Learning%20Explainability)
 
 [09 - Deep Learning Basics](https://github.com/CSFelix/data-science-studies/tree/main/src/09%20-%20Deep%20Learning%20Basics)
+
+[10 - Computer Vision Basics](https://github.com/CSFelix/data-science-studies/tree/main/src/10%20-%20Computer%20Vision%20Basics)

@@ -23,3 +23,5 @@
 [07 - Machine Learning](https://github.com/CSFelix/data-science-studies/tree/main/src/07%20-%20Machine%20Learning)
 
 [08 - Machine Learning Explainability](https://github.com/CSFelix/data-science-studies/tree/main/src/08%20-%20Machine%20Learning%20Explainability)
+
+[09 - Deep Learning Basics](https://github.com/CSFelix/data-science-studies/tree/main/src/09%20-%20Deep%20Learning%20Basics)

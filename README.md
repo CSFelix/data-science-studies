@@ -27,3 +27,5 @@
 [09 - Deep Learning Basics](https://github.com/CSFelix/data-science-studies/tree/main/src/09%20-%20Deep%20Learning%20Basics)
 
 [10 - Computer Vision Basics](https://github.com/CSFelix/data-science-studies/tree/main/src/10%20-%20Computer%20Vision%20Basics)
+
+[Bonus - Data Science Tricks](https://github.com/CSFelix/data-science-studies/tree/main/src/Bonus%20-%20Data%20Science%20Tricks)
